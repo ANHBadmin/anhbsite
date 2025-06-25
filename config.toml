@@ -3,7 +3,6 @@ title = "Atlanta New Horizons Band"
 languageCode = "en-us"
 theme = "mainroad"
 unsafe = "true"
-publishDir = "docs"
 
 [menu]
   [[menu.main]]
