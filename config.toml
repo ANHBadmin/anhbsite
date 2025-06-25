@@ -1,7 +1,6 @@
 baseurl = "/"
 title = "Atlanta New Horizons Band"
 languageCode = "en-us"
-paginate = "10" # Nmbr of posts per page
 theme = "mainroad"
 unsafe = "true"
 publishDir = "docs"
