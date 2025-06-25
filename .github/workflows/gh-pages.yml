@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout
+    - name: Checkout source
       uses: actions/checkout@v4
 
     - name: Setup Hugo
@@ -22,12 +22,20 @@ jobs:
       with:
         hugo-version: 'latest'
 
-    - name: Build
+    - name: Build site
       run: hugo --minify
 
-    - name: Deploy
+    - name: List built site contents
+      run: ls -R public
+
+    - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: gh-pages
         publish_dir: ./public
+        publish_branch: gh-pages
+
+    - name: Verify gh-pages branch contents
+      run: |
+        git clone --depth=1 --branch gh-pages https://github.com/${{ github.repository }} gh-temp
+        ls -R gh-temp
