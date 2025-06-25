@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://ANHBadmin.github.io/anhbsite/"
 title = "Atlanta New Horizons Band"
 languageCode = "en-us"
 theme = "mainroad"
