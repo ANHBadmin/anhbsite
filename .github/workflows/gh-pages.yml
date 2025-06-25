@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main  # Change this if your branch has a different name
+      - master  # Change this if your branch has a different name
 
 permissions:
   contents: write
