@@ -64,7 +64,7 @@
 # Footer
 - id: footer_credits
   translation:
-    "&nbsp;&nbsp;&nbsp;&nbsp;Created by A. Coates"
+    "&nbsp;&nbsp;&nbsp;&nbsp;"
 
 # 404
 - id: 404_title

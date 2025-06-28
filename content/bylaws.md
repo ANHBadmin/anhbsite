@@ -1,6 +1,6 @@
 +++
 title = 'Mission and Bylaws'
-date = 2025-06-26T15:31:09-04:00
+date = 2014-01-18
 sidebar = false
 draft = false
 +++

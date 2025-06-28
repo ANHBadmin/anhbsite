@@ -46,15 +46,7 @@ unsafe = "true"
     url = "/faq/"
     weight = 8
 
-  [[menu.main]]
-    name = "More..."
-    url = "/more/"
-    weight = 9
 
-  [[menu.footer]]
-    name = "Sitemap"
-    url = "/sitemap/"
-    weight = 1
 
   [[menu.footer]]
     name = "Privacy Policy"
