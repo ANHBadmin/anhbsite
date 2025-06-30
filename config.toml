@@ -46,7 +46,10 @@ unsafe = "true"
     url = "/faq/"
     weight = 8
 
-
+  [[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 9
 
   [[menu.footer]]
     name = "Privacy Policy"
