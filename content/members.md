@@ -28,7 +28,7 @@ draft = false
 #### - Don Girard
 #### - Bob Fedorchak
 
-## Baritone Saxaphone
+## Baritone Saxophone
 #### - Tom Rocco
 
 ## Trumpet
