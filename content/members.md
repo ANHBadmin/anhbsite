@@ -34,7 +34,6 @@ draft = false
 ## Trumpet
 #### - Bill Snellings
 #### - Oscar Jones
-#### - Greg Coile
 #### - Ken Lomas
 #### - Paul Aldo
 #### - Jana Calano
