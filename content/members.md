@@ -28,9 +28,6 @@ draft = false
 #### - Don Girard
 #### - Bob Fedorchak
 
-## Baritone Saxophone
-#### - Tom Rocco
-
 ## Trumpet
 #### - Bill Snellings
 #### - Oscar Jones
