@@ -58,10 +58,9 @@ unsafe = "true"
     weight = 3
 
 [Params]
-  pager = true
+  pager = false
   post_meta = ["date", "categories"] # Order of post meta information
     readmore = true
-    post_navigation = false
   description = "Atlanta New Horizons Band is a welcoming concert band for adult musicians of all skill levels in the Atlanta area. Rehearse, perform, and grow musically in a supportive and fun community."
 
 
