@@ -22,4 +22,4 @@ draft = false
 
 ### [Mancini!](https://youtu.be/9zUVIKtcIoc?si=IsnlKa-uf9YTQFQK) - Arranger: Steve Bulla
 
-### [Glenn Miller in Concert](https://youtu.be/8PdLYb_bU78?si=h6R2n_2bxrCR9D3F) -  Arranger: Paul Murtha
+### [Big Band Signatures](https://youtu.be/jJ6WT7ZQNOM?si=wISxHrOITaHbINy3) -  Arranger: John Higgins
