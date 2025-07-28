@@ -7,7 +7,8 @@ draft = false
 
 ## The band is off for the summer. Our next rehearsal is August 6, 2025.
 ## Here is the current partial practice list (with audio):
-  
+### NOTE: To avoid being asked to prove you are not a bot, 
+### you should be singed-in to your Google account before using the Youtube links below.
 
 
 ### [Second American Folk Rhapsody](https://youtu.be/ptUrXpd9tY0?si=YTxL_KZ35XtrWm8A) - Composer: Clare Grundman
