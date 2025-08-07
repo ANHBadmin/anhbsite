@@ -11,7 +11,7 @@ ANHB wants to invite these folks to renew their interest and passion. Now may be
 For more information, send us a messsage. {{<contactform_div>}}
 
 Rehearsals are held every Wednesday from 1:00 - 3:00 PM
-The rehearsal location is Redwood Church at St. John (formerly known as ST. John UMC), 
+The rehearsal location is The Church at St. John (formerly known as ST. John UMC), 
 550 Mt. Paran Road, Atlanta, GA 30327. S
 
 

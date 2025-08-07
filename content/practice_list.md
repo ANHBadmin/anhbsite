@@ -5,8 +5,8 @@ sidebar = false
 draft = false
 +++
 
-## The band is off for the summer. Our next rehearsal is August 6, 2025.
-## Here is the current partial practice list (with audio):
+
+## Here is the current practice list (with audio):
 ### NOTE: To avoid being asked to prove you are not a bot, 
 ### you should be signed-in to your Google account before using the Youtube links below.
 
