@@ -1,6 +1,6 @@
 +++
 title = 'About'
-date = 2025-06-15T17:43:06-05:00
+date = 2025-0606-15T17:43:06-05:00
 description = 'About page for the Atlanta New Horizons Band.'
 draft = false
 +++
@@ -14,9 +14,8 @@ The BAND DIRECTOR FRITZ SILER, an accomplished Trombone player, has an outgoing 
 ANHB is an affiliate of the [New Horizons International Music Association](https://newhorizonsmusic.org/). 
 
 **************************************************************************
-NOTE: The band is off for the summer.  Rehearsals resume Wednesday August 6, 2025.
 Rehearsals every Wednesday 1:00 - 3:00 PM
-Redwood Church at St. John (formerly known as ST. John UMC)
+The Church at St. John (formerly known as ST. John UMC)
 550 Mt. Paran Road
 Atlanta, GA 30327
 

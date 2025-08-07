@@ -1,6 +1,6 @@
 +++
 title = 'Musicians Wanted for Adult Concert Band'
-date = "2025-03-17"
+date = "2025-08-07"
 draft = false
 
 +++
