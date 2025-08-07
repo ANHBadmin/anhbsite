@@ -1,6 +1,6 @@
 +++
 title = 'Concert Schedule'
-date = 2025-08-05T17:43:06-05:00
+date = 2025-08-04T17:43:06-05:00
 draft = false
 +++
 
