@@ -1,6 +1,6 @@
 +++
 title = 'About'
-date = 2025-06-06T17:43:06-05:00
+date = 2025-08-04T17:43:06-05:00
 description = 'About page for the Atlanta New Horizons Band.'
 draft = false
 +++
