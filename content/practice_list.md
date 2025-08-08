@@ -25,3 +25,5 @@ If the problem persists, turn off your VPN temporarily.
 ### [Mancini!](https://youtu.be/9zUVIKtcIoc?si=IsnlKa-uf9YTQFQK) - Arranger: Steve Bulla
 
 ### [Big Band Signatures](https://youtu.be/jJ6WT7ZQNOM?si=wISxHrOITaHbINy3) -  Arranger: John Higgins
+
+### [Sea Songs](https://youtu.be/00r8HoWtpxM?si=e9Um44puFagw-Bmg) -  Composer: R. Vaughan Williams
