@@ -15,6 +15,3 @@ The rehearsal location is The Church at St. John (formerly known as ST. John UMC
 550 Mt. Paran Road, Atlanta, GA 30327.
 
 
-
-
-
