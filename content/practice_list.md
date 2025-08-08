@@ -1,14 +1,15 @@
 +++
 title = 'Practice List'
-date = 2025-08-06T09:43:06-05:00
+date = 2025-08-07T09:43:06-05:00
 sidebar = false
 draft = false
 +++
 
 
 ## Here is the current practice list (with audio):
-### NOTE: To avoid being asked to prove you are not a bot, 
-### you should be signed-in to your Google account before using the Youtube links below.
+PLEASE NOTE: If you are asked to prove you are not a bot, 
+check that you are signed-in to your Google account before using the Youtube links below.
+If the problem persists, turn off your VPN temporarily.
 
 
 ### [Second American Folk Rhapsody](https://youtu.be/ptUrXpd9tY0?si=YTxL_KZ35XtrWm8A) - Composer: Clare Grundman
