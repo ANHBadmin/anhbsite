@@ -24,6 +24,15 @@ If the problem persists, turn off your VPN temporarily.
 
 ### [Mancini!](https://youtu.be/9zUVIKtcIoc?si=IsnlKa-uf9YTQFQK) - Arranger: Steve Bulla
 
+### [Sea Songs](https://youtu.be/00r8HoWtpxM?si=e9Um44puFagw-Bmg) -  Composer: R. Vaughan Williams
+
 ### [Big Band Signatures](https://youtu.be/jJ6WT7ZQNOM?si=wISxHrOITaHbINy3) -  Arranger: John Higgins
 
-### [Sea Songs](https://youtu.be/00r8HoWtpxM?si=e9Um44puFagw-Bmg) -  Composer: R. Vaughan Williams
+#### The recording below is not on the practice list, but is added here for your entertainment and education.
+#### This is one of the tunes included in Big Band Signatures, above.
+#### This is a humorous demonstration of all the voices of the trombone family:
+#### Contrabass Trombone, Bass Trombone, Tenor Trombone, Alto Trombone, 
+#### Soprano Trombone, Sopranino and Piccolo Trombone.
+#### Enjoy!  - Alan C.
+
+### [The Peanut Vendor - Trombone Ensemble](https://youtu.be/fqjW5_BbodM?si=pnIfT2VNfHRTJWed)
