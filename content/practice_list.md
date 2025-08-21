@@ -5,8 +5,7 @@ sidebar = false
 draft = false
 +++
 
-# ATTENTION! Rehearsal in the church building this Wednesday (888000)
-## Here is the current practice list (with audio):
+
 PLEASE NOTE: If you are asked to prove you are not a bot, 
 check that you are signed-in to your Google account before using the Youtube links below.
 If the problem persists, turn off your VPN temporarily.
