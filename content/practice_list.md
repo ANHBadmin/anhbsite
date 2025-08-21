@@ -13,7 +13,8 @@ If the problem persists, turn off your VPN temporarily.
 
 ### [Second American Folk Rhapsody](https://youtu.be/ptUrXpd9tY0?si=YTxL_KZ35XtrWm8A) - Composer: Clare Grundman
   
-### [Show Boat](https://youtu.be/nj1j6S95taU?si=YSzr9NMuoxjlrpRU) - Composer: Jerome Kern
+### [Show Boat](https://youtu.be/w9F-0ZluL0E?si=TDC6jI-BcrjnQHNk) - Composer: Jerome Kern
+
   
 ### [Victory at Sea](https://youtu.be/Giw1PacZdZQ?si=8Vy4tEJW2fmpvWBA) - Composer:Richard Rogers; Arranger: John Moss
   
@@ -28,10 +29,10 @@ If the problem persists, turn off your VPN temporarily.
 ### [Big Band Signatures](https://youtu.be/jJ6WT7ZQNOM?si=wISxHrOITaHbINy3) -  Arranger: John Higgins
 
 #### The recording below is not on the practice list, but is added here for your entertainment and education.
-#### This is one of the tunes included in Big Band Signatures, above.
+#### The Peanut Vendor is one of the tunes included in Big Band Signatures, above.
 #### This is a humorous demonstration of all the voices of the trombone family:
 #### Contrabass Trombone, Bass Trombone, Tenor Trombone, Alto Trombone, 
-#### Soprano Trombone, Sopranino and Piccolo Trombone.
+#### Soprano Trombone, Sopranino Trombone and Piccolo Trombone.
 #### Enjoy!  - Alan C.
 
 ### [The Peanut Vendor - Trombone Ensemble](https://youtu.be/fqjW5_BbodM?si=pnIfT2VNfHRTJWed)
