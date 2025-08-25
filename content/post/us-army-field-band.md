@@ -11,6 +11,7 @@ categories = [
     "News"
 ]
 +++
+### Performing at the GSU Rialto Theater, October 30, 2025 8PM
 The U.S. Army Jazz Ambassadors, the premier touring ensemble of the United States Army, bring their world-class musicianship to the Rialto for a free evening of patriotic and jazz favorites. Formed in 1969, this 19-member big band is renowned for its dynamic arrangements and performances that span a range of styles, including swing, bebop, Latin jazz, and more. 
 <!--more-->
 With past collaborations including legends like Dave Brubeck and Bobby Shew, their concerts captivate audiences of all ages with artistry and pride.
