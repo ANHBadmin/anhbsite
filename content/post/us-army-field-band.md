@@ -3,7 +3,7 @@ title = 'U.S. Army Field Band -  Jazz Ambassadors'
 date = 2025-08-24T13:55:19-05:00
 draft = false
 tags = [
-     "Events"
+     "Events",
 ]
 
 # Categories are for broader grouping
