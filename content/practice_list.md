@@ -12,7 +12,7 @@ If the problem persists, turn off your VPN temporarily.
 
 ## In Order of Performance:
 
-### [Sea Songs](https://youtu.be/00r8HoWtpxM?si=e9Um44puFagw-Bmg) -  Composer: R. Vaughan Williams
+### [Sea Songs](https://youtu.be/72TG9czNm3I?si=1Rzd73HdOAnGBWN4) -  Composer: R. Vaughan Williams
 
 ### [Americans We](https://youtu.be/w606Vb6E4NA?si=v1egQFlxMrNuuaAL) - Composer: Henry Fillmore
 
@@ -24,7 +24,7 @@ If the problem persists, turn off your VPN temporarily.
   
 ### [The Chimes of Liberty](https://youtu.be/nsGnPc1ACfc?si=on4YCFt7Ick-uz6C) - Composer: Edwin F. Goldman
 
-### [Big Band Signatures](https://youtu.be/jJ6WT7ZQNOM?si=wISxHrOITaHbINy3) -  Arranger: John Higgins
+### [Big Band Signatures](https://youtu.be/T1xXV_WY1Fo?si=ONd-3NWZfMPYQLEY) -  Arranger: John Higgins
 
 ### [Mancini!](https://youtu.be/9zUVIKtcIoc?si=IsnlKa-uf9YTQFQK) - Arranger: Steve Bulla
 
