@@ -11,8 +11,8 @@ check that you are signed-in to your Google account before using the Youtube lin
 If the problem persists, turn off your VPN temporarily.
 
 ## Playlist of Entire Program, in Order of Performance:
-### [Compleete Program](https://youtube.com/playlist?list=PLPz4YnMIKKenq9LRNj_X074KY6hpyGR98&si=LsbA4_4qq3kCL0MM) -  In Performance Order
-
+### [Complete Program](https://youtube.com/playlist?list=PLPz4YnMIKKenq9LRNj_X074KY6hpyGR98&si=LsbA4_4qq3kCL0MM) -  In Performance Order
+---
 ## Individual Recordings, In Order of Performance:
 
 ### [Sea Songs](https://youtu.be/72TG9czNm3I?si=1Rzd73HdOAnGBWN4) -  Composer: R. Vaughan Williams
