@@ -8,6 +8,7 @@ draft = false
 
 
 ## September 2025
+### NOTE: Performance on this date is cancelled.
 Wednesday, September 24, 2025  
 Mt. Vernon Towers  
 3:00 Set-up, concert 3:30 - 4:30 PM  
