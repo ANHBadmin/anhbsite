@@ -34,6 +34,7 @@ draft = false
 #### - Ken Lomas
 #### - Paul Aldo
 #### - Jana Calano
+#### - John Karon
 
 ## Trombone
 #### - Ron Gilmore
