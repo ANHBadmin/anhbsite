@@ -24,7 +24,9 @@ If the problem persists, turn off your VPN temporarily.
 ### [Show Boat](https://youtu.be/w9F-0ZluL0E?si=TDC6jI-BcrjnQHNk) - Composer: Jerome Kern
 {{< youtube MQdBkbp9RGY >}}
 
----
+### Above:  Complete performance of the musical, Show Boat
+
+
 
 ### [Victory at Sea](https://youtu.be/Giw1PacZdZQ?si=8Vy4tEJW2fmpvWBA) - Composer:Richard Rogers; Arranger: John Moss
   
