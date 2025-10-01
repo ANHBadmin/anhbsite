@@ -6,9 +6,7 @@ draft = false
 +++
 
 
-PLEASE NOTE: If you are asked to prove you are not a bot, 
-check that you are signed-in to your Google account before using the Youtube links below.
-If the problem persists, turn off your VPN temporarily.
+PLEASE NOTE: 10/1/2025 - Rehearsal will be in the Scout Center today.
 
 ## Playlist of Entire Program, in Order of Performance:
 ### [Complete Program](https://youtube.com/playlist?list=PLPz4YnMIKKenq9LRNj_X074KY6hpyGR98&si=LsbA4_4qq3kCL0MM) -  In Performance Order
@@ -30,19 +28,13 @@ If the problem persists, turn off your VPN temporarily.
 
 ### [Victory at Sea](https://youtu.be/Giw1PacZdZQ?si=8Vy4tEJW2fmpvWBA) - Composer:Richard Rogers; Arranger: John Moss
   
-### [The Chimes of Liberty](https://youtu.be/nsGnPc1ACfc?si=on4YCFt7Ick-uz6C) - Composer: Edwin F. Goldman
+### CANCELLED 10/1/2025  [The Chimes of Liberty](https://youtu.be/nsGnPc1ACfc?si=on4YCFt7Ick-uz6C) - Composer: Edwin F. Goldman
 
 ### [Big Band Signatures](https://youtu.be/T1xXV_WY1Fo?si=ONd-3NWZfMPYQLEY) -  Arranger: John Higgins
 
 ### [Mancini!](https://youtu.be/9zUVIKtcIoc?si=IsnlKa-uf9YTQFQK) - Arranger: Steve Bulla
 
 ---
-## This is NOT part of the Practice List:
-### [The Peanut Vendor - Trombone Ensemble](https://youtu.be/fqjW5_BbodM?si=pnIfT2VNfHRTJWed)
-#### This recording is added here for your entertainment and education.
-#### The Peanut Vendor is one of the tunes included in Big Band Signatures above.
-#### This is a humorous demonstration of all the voices of the trombone family:
-#### Contrabass Trombone, Bass Trombone, Tenor Trombone, Alto Trombone, 
-#### Soprano Trombone, Sopranino Trombone and Piccolo Trombone.
-#### Enjoy!  - Alan C.
-
+PLEASE NOTE: If you are asked to prove you are not a bot, 
+check that you are signed-in to your Google account before using the Youtube links below.
+If the problem persists, turn off your VPN temporarily.
