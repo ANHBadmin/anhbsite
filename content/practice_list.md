@@ -1,12 +1,12 @@
 +++
 title = 'Practice List'
-date = 2025-08-06T09:43:06-05:00
+date = 2025-10-01T09:43:06-05:00
 sidebar = false
 draft = false
 +++
 
 
-PLEASE NOTE: 10/1/2025 - Rehearsal will be in the Scout Center today.
+PLEASE NOTE: 10/1/2025 - Rehearsal will be in the Youth Center today.
 
 ## Playlist of Entire Program, in Order of Performance:
 ### [Complete Program](https://youtube.com/playlist?list=PLPz4YnMIKKenq9LRNj_X074KY6hpyGR98&si=LsbA4_4qq3kCL0MM) -  In Performance Order
