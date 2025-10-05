@@ -16,6 +16,7 @@ draft = false
 ## Clarinet
 #### - Sonny Mayfield
 #### - Wolfgang Tiedtke
+#### - Mary Siler
   
 ## Bass Clarinet
 #### - Mark Lesser
