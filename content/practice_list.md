@@ -1,12 +1,10 @@
 +++
 title = 'Practice List'
-date = 2025-10-05T09:43:06-05:00
+date = 2025-10-06T09:43:06-05:00
 sidebar = false
 draft = false
 +++
 
-
-PLEASE NOTE: 10/1/2025 - Rehearsal will be in the Youth Center today.
 
 ## Playlist of Entire Program, in Order of Performance:
 ### [Complete Program](https://youtube.com/playlist?list=PLPz4YnMIKKenq9LRNj_X074KY6hpyGR98&si=WvGGlkAVef8e9etQ) -  In Performance Order
@@ -18,11 +16,6 @@ PLEASE NOTE: 10/1/2025 - Rehearsal will be in the Youth Center today.
 ### [Americans We](https://youtu.be/w606Vb6E4NA?si=v1egQFlxMrNuuaAL) - Composer: Henry Fillmore
 
 ### [Second American Folk Rhapsody](https://youtu.be/ptUrXpd9tY0?si=YTxL_KZ35XtrWm8A) - Composer: Clare Grundman
-
-### [Show Boat](https://youtu.be/w9F-0ZluL0E?si=TDC6jI-BcrjnQHNk) - Composer: Jerome Kern
-{{< youtube MQdBkbp9RGY >}}
-
-### Above:  Complete performance of the musical, Show Boat
 
 ### [Victory at Sea](https://youtu.be/Giw1PacZdZQ?si=8Vy4tEJW2fmpvWBA) - Composer:Richard Rogers; Arranger: John Moss
 
@@ -36,5 +29,5 @@ PLEASE NOTE: 10/1/2025 - Rehearsal will be in the Youth Center today.
 
 ---
 PLEASE NOTE: If you are asked to prove you are not a bot, 
-check that you are signed-in to your Google account before using the Youtube links below.
-If the problem persists, turn off your VPN temporarily.
+check that you are signed-in to your Google account before using the Youtube links above.
+If the problem persists, turning off your VPN temporarily may help.

@@ -1,18 +1,11 @@
 +++
 title = 'Concert Schedule'
-date = 2025-08-04T17:43:06-05:00
+date = 2025-10-06T17:43:06-05:00
 draft = false
 +++
 
 
 
-
-## September 2025
-NOTE: Performance on 9/24 is cancelled. 
-ATTENTION: There will be a rehearsal on this date.
-Wednesday, September 24, 2025  
-Mt. Vernon Towers  
-3:00 Set-up, concert 3:30 - 4:30 PM  
 
 ## October 2025
 Wednesday, October 15, 2025  
