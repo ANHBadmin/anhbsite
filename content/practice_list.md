@@ -8,6 +8,8 @@ draft = false
 
 ## Playlist of Entire Program, in Order of Performance:
 ### [Complete Program](https://youtube.com/playlist?list=PLPz4YnMIKKenq9LRNj_X074KY6hpyGR98&si=WvGGlkAVef8e9etQ) -  In Performance Order
+### Next Performance:  Wednesday, October 15, 2025
+### Sunrise Summit 1:30 Set-up, concert 2:00 - 3:00 PM
 ---
 ## Individual Recordings, In Order of Performance:
 
