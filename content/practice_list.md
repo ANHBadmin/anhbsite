@@ -7,7 +7,7 @@ draft = false
 
 
 ## Playlist of Entire Program, in Order of Performance:
-### [Complete Program](https://youtube.com/playlist?list=PLPz4YnMIKKenq9LRNj_X074KY6hpyGR98&si=WvGGlkAVef8e9etQ) -  In Performance Order
+### [Complete Program Playlist](https://youtube.com/playlist?list=PLPz4YnMIKKenq9LRNj_X074KY6hpyGR98&si=WvGGlkAVef8e9etQ) -  In Performance Order
 ### Next Performance:  Wednesday, October 15, 2025
 ### Sunrise Summit 1:30 Set-up, concert 2:00 - 3:00 PM
 ---
@@ -19,13 +19,11 @@ draft = false
 
 ### [Second American Folk Rhapsody](https://youtu.be/ptUrXpd9tY0?si=YTxL_KZ35XtrWm8A) - Composer: Clare Grundman
 
+### [Showboat](https://youtu.be/w9F-0ZluL0E?si=4AMxskp66LFuGReC) - Composer: Jerome Kern
+
 ### [Victory at Sea](https://youtu.be/Giw1PacZdZQ?si=8Vy4tEJW2fmpvWBA) - Composer:Richard Rogers; Arranger: John Moss
 
-### ADDED 10/3/2025  [Autumn Leaves](https://www.youtube.com/watch?v=T3Ix3g47xn0) - Composer: Joseph Kosma
-  
-### CANCELLED 10/1/2025  [The Chimes of Liberty](https://youtu.be/nsGnPc1ACfc?si=on4YCFt7Ick-uz6C) - Composer: Edwin F. Goldman
-
-### CANCELLED 10/3/2025 [Big Band Signatures](https://youtu.be/T1xXV_WY1Fo?si=ONd-3NWZfMPYQLEY) -  Arranger: John Higgins
+### [Autumn Leaves](https://www.youtube.com/watch?v=T3Ix3g47xn0) - Composer: Joseph Kosma
 
 ### [Mancini!](https://youtu.be/9zUVIKtcIoc?si=IsnlKa-uf9YTQFQK) - Arranger: Steve Bulla
 
