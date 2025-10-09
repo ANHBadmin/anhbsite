@@ -19,7 +19,7 @@ draft = false
 
 ### [Second American Folk Rhapsody](https://youtu.be/ptUrXpd9tY0?si=YTxL_KZ35XtrWm8A) - Composer: Clare Grundman
 
-### [Showboat](https://youtu.be/w9F-0ZluL0E?si=4AMxskp66LFuGReC) - Composer: Jerome Kern
+### [Show Boat](https://youtu.be/w9F-0ZluL0E?si=4AMxskp66LFuGReC) - Composer: Jerome Kern
 
 ### [Victory at Sea](https://youtu.be/Giw1PacZdZQ?si=8Vy4tEJW2fmpvWBA) - Composer:Richard Rogers; Arranger: John Moss
 
