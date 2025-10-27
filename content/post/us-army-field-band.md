@@ -1,9 +1,9 @@
 +++
 title = 'U.S. Army Field Band -  Jazz Ambassadors'
-date = 2025-08-24T13:55:19-05:00
+date = 2025-08-26T13:55:19-05:00
 draft = false
 tags = [
-     "Events",
+     "Events"
 ]
 
 # Categories are for broader grouping
@@ -11,6 +11,7 @@ categories = [
     "News"
 ]
 +++
+
 ### ATTENTION:  This Performance Has Been Cancelled
 The U.S. Army Jazz Ambassadors, the premier touring ensemble of the United States Army, bring their world-class musicianship to the Rialto for a free evening of patriotic and jazz favorites. Formed in 1969, this 19-member big band is renowned for its dynamic arrangements and performances that span a range of styles, including swing, bebop, Latin jazz, and more. 
 <!--more-->
