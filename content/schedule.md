@@ -11,6 +11,7 @@ Sunrise Summit
 1:30 Set-up, concert 2:00 - 3:00 PM   
 
 ## November 2025
+### This Concert Has Been Cancelled
 Wednesday, November 19, 2025  
 Canterbury
 2:30 Set-up, concert 3:00 - 4:00 PM

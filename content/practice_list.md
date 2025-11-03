@@ -5,6 +5,7 @@ sidebar = false
 draft = false
 +++
 
+### ANNOUNCEMENT: The 11/19/2025 Concert Has Been Cancelled
 ### IN PERFORMANCE ORDER:
 
 ### [Sea Songs](https://youtu.be/72TG9czNm3I?si=1Rzd73HdOAnGBWN4) -  Composer: R. Vaughan Williams
