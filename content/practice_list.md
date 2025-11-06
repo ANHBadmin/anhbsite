@@ -1,12 +1,12 @@
 +++
 title = 'Practice List'
-date = 2025-10-29T09:43:06-05:00
+date = 2025-11-05T09:43:06-05:00
 sidebar = false
 draft = false
 +++
 
-### ANNOUNCEMENT: The 11/19/2025 Concert Has Been Cancelled
-### IN PERFORMANCE ORDER:
+###  ATBA - Additional Seasonal Selections
+
 
 ### [Sea Songs](https://youtu.be/72TG9czNm3I?si=1Rzd73HdOAnGBWN4) -  Composer: R. Vaughan Williams
 
@@ -20,7 +20,7 @@ draft = false
 
 ### [Autumn Leaves](https://www.youtube.com/watch?v=T3Ix3g47xn0) - Composer: Joseph Kosma
 
-### [America, the Beautiful ](https://youtu.be/RXlzBR23HG0?si=r43BRbvKKcUnxD15) - Composer: Samuel Augustus Ward; Arranger: Carmen Dragon
+### [America, the Beautiful](https://youtu.be/RXlzBR23HG0?si=r43BRbvKKcUnxD15) - Composer: Samuel Augustus Ward; Arranger: Carmen Dragon
 
 ---
 PLEASE NOTE: If your web browser wants proof you are not a bot, 
