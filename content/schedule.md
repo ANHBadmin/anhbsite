@@ -1,6 +1,6 @@
 +++
 title = 'Concert Schedule'
-date = 2025-11-05T12:43:06-05:00
+date = 2025-11-06T12:43:06-05:00
 draft = false
 +++
 
@@ -19,4 +19,4 @@ Canterbury
 ## December 2025
 Wednesday: December 17, 2025  
 Mount Vernon Towers
-1:30 Set-up, concert 2:00 - 3:00 PM
+2:00 Set-up, concert 2:30 - 3:30 PM
