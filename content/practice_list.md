@@ -22,6 +22,7 @@ draft = false
 
 ### [America, the Beautiful](https://youtu.be/RXlzBR23HG0?si=r43BRbvKKcUnxD15) - Composer: Samuel Augustus Ward; Arranger: Carmen Dragon
 
+### [Sleigh Ride](https://youtu.be/ePfJ-j2SBCs?si=LUy57ODEdB906_QE) - Composer: Leroy Anderson
 ---
 PLEASE NOTE: If your web browser wants proof you are not a bot, 
 check that you are signed-in to your Google account before using the Youtube links above.
