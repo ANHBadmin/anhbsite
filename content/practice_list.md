@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2025-11-05T09:43:06-05:00
+date = 2025-11-11T09:43:06-05:00
 sidebar = false
 draft = false
 +++
@@ -23,7 +23,9 @@ draft = false
 ### [America, the Beautiful](https://youtu.be/RXlzBR23HG0?si=r43BRbvKKcUnxD15) - Composer: Samuel Augustus Ward; Arranger: Carmen Dragon
 
 ### [Sleigh Ride](https://youtu.be/ePfJ-j2SBCs?si=LUy57ODEdB906_QE) - Composer: Leroy Anderson
+
 ---
+
 PLEASE NOTE: If your web browser wants proof you are not a bot, 
 check that you are signed-in to your Google account before using the Youtube links above.
 If the problem persists, turning off your VPN temporarily may help.
