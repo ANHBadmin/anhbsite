@@ -18,7 +18,7 @@ draft = false
 
 ### [Chanukah: The Festival of Lights Overture](https://youtu.be/Hkm8czkoQYE?si=I_MXdrRuEWxT-Jwk) - Traditional - arr. David Bobrowitz
 
-### [Christmas Portrait](### [Christmas Day](https://youtu.be/BY6IH8uLtGw?si=V_T_fNzPRWMugQa8) - Composer: Gustav Holst) - Arranger: Jerry Nowak
+### [Christmas Portrait](https://youtu.be/b2Ngz37QiMw?si=gOUuhxXwhK77TS-w) - Arranger: Jerry Nowak
 
 ### [Christmas Day](https://youtu.be/BY6IH8uLtGw?si=V_T_fNzPRWMugQa8) - Composer: Gustav Holst
 
