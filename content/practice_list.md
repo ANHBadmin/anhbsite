@@ -5,28 +5,25 @@ sidebar = false
 draft = false
 +++
 
-###  TBA: Additional Seasonal Selections
+###  (The following may neither be final nor in order of perforamce)
 
 
-### [Sea Songs](https://youtu.be/72TG9czNm3I?si=1Rzd73HdOAnGBWN4) -  Composer: R. Vaughan Williams
-
-### [Americans We](https://youtu.be/w606Vb6E4NA?si=v1egQFlxMrNuuaAL) - Composer: Henry Fillmore
+### [America, the Beautiful](https://youtu.be/RXlzBR23HG0?si=r43BRbvKKcUnxD15) - Composer: Samuel Augustus Ward; Arranger: Carmen Dragon
 
 ### [Second American Folk Rhapsody](https://youtu.be/ptUrXpd9tY0?si=YTxL_KZ35XtrWm8A) - Composer: Clare Grundman
 
 ### [Show Boat](https://youtu.be/w9F-0ZluL0E?si=4AMxskp66LFuGReC) - Composer: Jerome Kern
 
-### [Victory at Sea](https://youtu.be/Giw1PacZdZQ?si=8Vy4tEJW2fmpvWBA) - Composer: Richard Rogers; Arranger: John Moss
-
 ### [Autumn Leaves](https://www.youtube.com/watch?v=T3Ix3g47xn0) - Composer: Joseph Kosma
 
-### [America, the Beautiful](https://youtu.be/RXlzBR23HG0?si=r43BRbvKKcUnxD15) - Composer: Samuel Augustus Ward; Arranger: Carmen Dragon
+### [Chanukah: The Festival of Lights Overture](https://youtu.be/Hkm8czkoQYE?si=I_MXdrRuEWxT-Jwk) - Traditional - arr. David Bobrowitz
 
-### [Sleigh Ride](https://youtu.be/ePfJ-j2SBCs?si=LUy57ODEdB906_QE) - Composer: Leroy Anderson
+### [Christmas Portrait](### [Christmas Day](https://youtu.be/BY6IH8uLtGw?si=V_T_fNzPRWMugQa8) - Composer: Gustav Holst) - Arranger: Jerry Nowak
 
 ### [Christmas Day](https://youtu.be/BY6IH8uLtGw?si=V_T_fNzPRWMugQa8) - Composer: Gustav Holst
 
-### [Chanukah: The Festival of Lights Overture](https://youtu.be/Hkm8czkoQYE?si=I_MXdrRuEWxT-Jwk) - Traditional - arr. David Bobrowitz
+### [Sleigh Ride](https://youtu.be/ePfJ-j2SBCs?si=LUy57ODEdB906_QE) - Composer: Leroy Anderson
+
 
 ---
 
