@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2025-11-11T09:43:06-05:00
+date = 2025-11-13T01:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -23,6 +23,10 @@ draft = false
 ### [America, the Beautiful](https://youtu.be/RXlzBR23HG0?si=r43BRbvKKcUnxD15) - Composer: Samuel Augustus Ward; Arranger: Carmen Dragon
 
 ### [Sleigh Ride](https://youtu.be/ePfJ-j2SBCs?si=LUy57ODEdB906_QE) - Composer: Leroy Anderson
+
+### [Christmas Day](https://youtu.be/BY6IH8uLtGw?si=V_T_fNzPRWMugQa8) - Composer: Gustav Holst
+
+### [Chanukah: The Festival of Lights Overture](https://youtu.be/Hkm8czkoQYE?si=I_MXdrRuEWxT-Jwk) - Traditional - arr. David Bobrowitz
 
 ---
 
