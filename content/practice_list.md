@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2025-11-13T01:00:00-05:00
+date = 2025-11-16T01:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -16,9 +16,9 @@ draft = false
 
 ### [Autumn Leaves](https://www.youtube.com/watch?v=T3Ix3g47xn0) - Composer: Joseph Kosma
 
-### [Chanukah: The Festival of Lights Overture](https://youtu.be/Hkm8czkoQYE?si=I_MXdrRuEWxT-Jwk) - Traditional - arr. David Bobrowitz
-
 ### [Christmas Portrait](https://youtu.be/b2Ngz37QiMw?si=gOUuhxXwhK77TS-w) - Arranger: Jerry Nowak
+
+### [Chanukah: The Festival Of Lights Overture](https://youtu.be/Hkm8czkoQYE?si=I_MXdrRuEWxT-Jwk) - Traditional - arr. David Bobrowitz
 
 ### [Christmas Day](https://youtu.be/BY6IH8uLtGw?si=V_T_fNzPRWMugQa8) - Composer: Gustav Holst
 
