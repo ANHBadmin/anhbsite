@@ -22,7 +22,6 @@ draft = false
 #### - Mark Lesser
 
 ## Alto Saxophone
-#### - Al Loebe
 #### - Jonathan Nadybal
 
 ## Tenor Saxophone
@@ -51,4 +50,8 @@ draft = false
 ## Percussion
 #### - Otis Brown
 ---
+[Alumni Honor Roll](/alumni-honor-roll/)  
+
+---
+
 #### New musicians are always welcome!
