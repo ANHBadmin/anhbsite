@@ -1,12 +1,13 @@
 +++
 title = 'Practice List'
-date = 2025-11-16T01:00:00-05:00
+date = 2025-12-10T01:00:00-05:00
 sidebar = false
 draft = false
 +++
 
-###  (The following may neither be final nor in order of perforamce)
+###  (FConcert List  - In Performance Order)
 
+### Next Rehearsal 2026: (TBA - Watch This Space)
 
 ### [America, the Beautiful](https://youtu.be/RXlzBR23HG0?si=r43BRbvKKcUnxD15) - Composer: Samuel Augustus Ward; Arranger: Carmen Dragon
 
@@ -20,7 +21,6 @@ draft = false
 
 ### [Chanukah: The Festival Of Lights Overture](https://youtu.be/Hkm8czkoQYE?si=I_MXdrRuEWxT-Jwk) - Traditional - arr. David Bobrowitz
 
-### [Christmas Day](https://youtu.be/BY6IH8uLtGw?si=V_T_fNzPRWMugQa8) - Composer: Gustav Holst
 
 ### [Sleigh Ride](https://youtu.be/ePfJ-j2SBCs?si=LUy57ODEdB906_QE) - Composer: Leroy Anderson
 
