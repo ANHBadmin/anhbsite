@@ -6,7 +6,7 @@ draft = false
 +++
 
 ###  Concert Program  - In Performance Order
-### NOTE: Christas Day has been dropped from the performance.
+### NOTE: Christmas Day has been dropped from the performance.
 
 ### Next Rehearsal 2026: (TBA - Watch This Space)
 
