@@ -5,7 +5,8 @@ sidebar = false
 draft = false
 +++
 
-###  (FConcert List  - In Performance Order)
+###  Concert Program  - In Performance Order
+### NOTE: Christas Day has been dropped from the performance.
 
 ### Next Rehearsal 2026: (TBA - Watch This Space)
 
