@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2025-12-20T01:00:00-05:00
+date = 2025-12-19T01:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -8,8 +8,7 @@ draft = false
 
 ### Next Rehearsal:  Wednesday January 14, 2026 at the usual time and place
 
-### [Autumn Leaves](https://www.youtube.com/watch?v=T3Ix3g47xn0) - Composer: Joseph Kosma
-### PRACTICE LIST IS TBA.
+### The next practice list is TBA.
 
 
 ---
