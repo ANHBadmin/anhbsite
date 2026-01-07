@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2025-12-19T01:00:00-05:00
+date = 2026-01-06T01:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -8,7 +8,19 @@ draft = false
 
 ### Next Rehearsal:  Wednesday January 14, 2026 at the usual time and place
 
-### The next practice list is TBA.
+### An American Spectacular
+
+### Stars and Stripes
+
+### The Promise of Living
+
+### Americans We
+
+### Armed Forces Medley (Pomeroy)
+
+### Chimes of Liberty
+
+### Strike Up the Band
 
 
 ---
