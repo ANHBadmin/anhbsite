@@ -8,19 +8,19 @@ draft = false
 
 ### Next Rehearsal:  Wednesday January 14, 2026 at the usual time and place
 
-### An American Spectacular
+### [An American Spectacular](https://youtu.be/XnAdzBTMt_Q?si=qlhZbtZuFQPx8VpK) - Arranger: Chris Sharp
 
-### Stars and Stripes
+### [The Stars and Stripes Forever](https://youtu.be/a-7XWhyvIpE?si=QtxJxwph8R3hljFX) - Composer: John Philip Sousa
 
-### The Promise of Living
+### [The Promise of Living](https://youtu.be/4zpAeRZbVd8?si=dm9-fw9dFO_Y6oPl) - Composer: Aaron Copland, Arranger: James Curnow
 
-### Americans We
+### [Americans We](https://youtu.be/H0TKaqTa6LM?si=fni4zWKAt73pb_Rx) - Composer: Henry Fillmore
 
-### Armed Forces Medley (Pomeroy)
+### Armed Services Medley - Arranger: Pomeroy (No recording available)
 
-### Chimes of Liberty
+### [Chimes of Liberty](https://youtu.be/nsGnPc1ACfc?si=dp4DYqZDBQGzxe6x)  - Composers: George and Ira Gershwin, Arranger: Warren Barker
 
-### Strike Up the Band
+### [Strike Up the Band](https://youtu.be/gnrXnhblHgw?si=jfwuoeRHO-ZyhQHh) - Composer: John Philip Sousa
 
 
 ---
