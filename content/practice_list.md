@@ -28,13 +28,13 @@ draft = false
 
 ## Christmas/Hannukkah (red) Folder Contents
 ### A Celebration of Hanukkah
-### Channukay: The Festival of Lights Overture
+### Channukah: The Festival of Lights Overture
 ### Christmas Day
 ### A Christmas Portrait
 ### Deck the Hall
 ### Greensleeves
 ### Jingle Bell Jazz
-### The Most Wonderful Tiem of the Year
+### The Most Wonderful Time of the Year
 ### O Christmas tree
 ### Sleigh Ride
 ### Stars and Stripes for Christmas
