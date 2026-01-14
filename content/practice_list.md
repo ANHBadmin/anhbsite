@@ -6,7 +6,9 @@ draft = false
 +++
 
 
-### Next Rehearsal:  Wednesday January 14, 2026 at the usual time and place
+## RED FOLDER playlist contents are listed following the regular playlist.
+
+---
 
 ### [An American Spectacular](https://youtu.be/XnAdzBTMt_Q?si=qlhZbtZuFQPx8VpK) - Arranger: Chris Sharp
 
@@ -22,6 +24,21 @@ draft = false
 
 ### [Strike Up the Band](https://youtu.be/gnrXnhblHgw?si=jfwuoeRHO-ZyhQHh) - Composer: John Philip Sousa
 
+---
+
+## Christmas/Hannukkah (red) Folder Contents
+### A Celebration of Hanukkah
+### Channukay: The Festival of Lights Overture
+### Christmas Day
+### A Christmas Portrait
+### Deck the Hall
+### Greensleeves
+### Jingle Bell Jazz
+### The Most Wonderful Tiem of the Year
+### O Christmas tree
+### Sleigh Ride
+### Stars and Stripes for Christmas
+### A Vaughan Williams Christmas
 
 ---
 
