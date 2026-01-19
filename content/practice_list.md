@@ -5,9 +5,9 @@ sidebar = false
 draft = false
 +++
 
-
-## RED FOLDER playlist contents are listed following the regular playlist.
-
+# ANNOUNCEMENTS:
+## 1) RED FOLDER playlist contents are listed following the regular playlist.
+## 2) The Old Boatman has been added to the practice list.
 ---
 
 ### [An American Spectacular](https://youtu.be/XnAdzBTMt_Q?si=qlhZbtZuFQPx8VpK) - Arranger: Chris Sharp
@@ -23,6 +23,9 @@ draft = false
 ### [Chimes of Liberty](https://youtu.be/nsGnPc1ACfc?si=dp4DYqZDBQGzxe6x)  - Composers: George and Ira Gershwin, Arranger: Warren Barker
 
 ### [Strike Up the Band](https://youtu.be/gnrXnhblHgw?si=jfwuoeRHO-ZyhQHh) - Composer: John Philip Sousa
+
+### [The Old Boatman](https://youtu.be/jMQteKf7v9U?si=wTSdet75RvAPRZ5Z) - Composer: Florence Price
+
 
 ---
 
