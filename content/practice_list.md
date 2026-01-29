@@ -1,13 +1,13 @@
 +++
 title = 'Practice List'
-date = 2026-01-21T01:00:00-05:00
+date = 2026-01-28T01:00:00-05:00
 sidebar = false
 draft = false
 +++
 
 # ANNOUNCEMENTS:
-## 1) Fritz recommends listening to this vocal performance of [The Promise of Living](https://youtu.be/tDAbNaF6EYQ?si=EhksclFwGh9JTNx7).
-## 2) RED FOLDER playlist contents are listed following the regular playlist.  Please confirm you have these in your red holiday folder, and let Laura know what's missing.
+## 1) UPDATE: The next performance is rescheduled for TUESDAY March 24.
+## 2) Fritz recommends listening to this vocal performance of [The Promise of Living](https://youtu.be/tDAbNaF6EYQ?si=EhksclFwGh9JTNx7).
 
 ---
 
@@ -28,22 +28,6 @@ draft = false
 
 ### [The Old Boatman](https://youtu.be/jMQteKf7v9U?si=wTSdet75RvAPRZ5Z) - Composer: Florence Price
 
-
----
-
-## Christmas/Hannukkah (red) Folder Contents
-### A Celebration of Hanukkah
-### Channukah: The Festival of Lights Overture
-### Christmas Day
-### A Christmas Portrait
-### Deck the Hall
-### Greensleeves
-### Jingle Bell Jazz
-### The Most Wonderful Time of the Year
-### O Christmas tree
-### Sleigh Ride
-### Stars and Stripes for Christmas
-### A Vaughan Williams Christmas
 
 ---
 

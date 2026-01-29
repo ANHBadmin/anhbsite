@@ -5,6 +5,17 @@ draft = false
 +++
 
 
+
+## 2026
+
+Tuesday: March 24, 2026  
+Canterbury
+2:30 Set-up, concert 3:00 - 4:00 PM
+
+---
+
+## 2025
+
 ## October 2025
 Wednesday: October 15, 2025  
 Sunrise Summit
