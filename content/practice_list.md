@@ -22,7 +22,7 @@ draft = false
 
 ### Armed Services Medley - Arranger: Pomeroy (No recording available)
 
-### [Chimes of Liberty](https://youtu.be/nsGnPc1ACfc?si=dp4DYqZDBQGzxe6x)  - Composer: Edwin Franko Goldwin
+### [Chimes of Liberty](https://youtu.be/nsGnPc1ACfc?si=dp4DYqZDBQGzxe6x)  - Composer: Edwin Franko Goldman
 
 ### [Strike Up the Band](https://youtu.be/gnrXnhblHgw?si=jfwuoeRHO-ZyhQHh) - Composer: John Philip Sousa
 
