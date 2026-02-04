@@ -32,7 +32,6 @@ draft = false
 #### - Bill Snellings
 #### - Oscar Jones
 #### - Paul Aldo
-#### - Jana Calano
 #### - John Karon
 
 ## Trombone
