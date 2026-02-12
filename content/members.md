@@ -1,6 +1,6 @@
 +++
 title = 'Members'
-date = 2025-06-15T09:43:06-05:00
+date = 2026-11-15T09:43:06-05:00
 draft = false
 +++
 
@@ -17,6 +17,7 @@ draft = false
 #### - Sonny Mayfield
 #### - Wolfgang Tiedtke
 #### - Mary Siler
+#### - Steve Levene
   
 ## Bass Clarinet
 #### - Mark Lesser
