@@ -6,12 +6,14 @@ draft = false
 +++
 
 # ANNOUNCEMENTS:
-## 1) UPDATE: Strike Up The Band has been removed from the program.
+## 1) UPDATE: Strike Up The Band has been added back on the program.
 ## 2) UPDATE: The Star Spangled Banner has been added to the program.
 
 ---
 
 ### [Star Spangled Banner](https://youtu.be/tDYIMWx5uEI?si=9gTUuOrO8Qm6k7qv) - Compooser:  Francis Scott Key, Arranger: John Stafford Smith
+
+### [Strike up the Band](https://youtu.be/gnrXnhblHgw?si=W4w6Slw_zV05lron) - Compoosers:  George and Ira Gershwin; Arr: Warren Barker
 
 ### [An American Spectacular](https://youtu.be/XnAdzBTMt_Q?si=qlhZbtZuFQPx8VpK) - Arranger: Chris Sharp
 
