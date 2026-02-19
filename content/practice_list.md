@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2026-02-12T01:00:00-05:00
+date = 2026-02-18T01:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -11,9 +11,9 @@ draft = false
 
 ---
 
-### [Star Spangled Banner](https://youtu.be/tDYIMWx5uEI?si=9gTUuOrO8Qm6k7qv) - Compooser:  Francis Scott Key, Arranger: John Stafford Smith
+### [Star Spangled Banner](https://youtu.be/tDYIMWx5uEI?si=9gTUuOrO8Qm6k7qv) - Composer:  Francis Scott Key, Arranger: John Stafford Smith
 
-### [Strike up the Band](https://youtu.be/gnrXnhblHgw?si=W4w6Slw_zV05lron) - Compoosers:  George and Ira Gershwin; Arr: Warren Barker
+### [Strike up the Band](https://youtu.be/gnrXnhblHgw?si=W4w6Slw_zV05lron) - Composers:  George and Ira Gershwin; Arr: Warren Barker
 
 ### [An American Spectacular](https://youtu.be/XnAdzBTMt_Q?si=qlhZbtZuFQPx8VpK) - Arranger: Chris Sharp
 
