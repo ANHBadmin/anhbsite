@@ -1,12 +1,12 @@
 +++
 title = 'Practice List'
-date = 2026-02-18T01:00:00-05:00
+date = 2026-03-04T01:00:00-05:00
 sidebar = false
 draft = false
 +++
 
 # ANNOUNCEMENTS:
-## 1) UPDATE: Strike Up The Band has been added back on the program.
+## 1) UPDATE: Strike Up The Band has been added back to the program.
 ## 2) UPDATE: The Star Spangled Banner has been added to the program.
 
 ---

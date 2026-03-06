@@ -17,7 +17,7 @@ draft = false
 #### - Sonny Mayfield
 #### - Wolfgang Tiedtke
 #### - Mary Siler
-#### - Steve Levene
+
   
 ## Bass Clarinet
 #### - Mark Lesser
@@ -31,7 +31,6 @@ draft = false
 
 ## Trumpet
 #### - Bill Snellings
-#### - Oscar Jones
 #### - Paul Aldo
 #### - John Karon
 
