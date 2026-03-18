@@ -1,17 +1,17 @@
 +++
 title = 'Practice List'
-date = 2026-03-04T01:00:00-05:00
+date = 2026-03-18T01:00:00-05:00
 sidebar = false
 draft = false
 +++
 
 # ANNOUNCEMENTS:
-## 1) UPDATE: Strike Up The Band has been added back to the program.
-## 2) UPDATE: The Star Spangled Banner has been added to the program.
+## 1) UPDATE: Add America the Beautiful
+## 2) UPDATE: Remove Star Spangled Banner
 
 ---
 
-### [Star Spangled Banner](https://youtu.be/tDYIMWx5uEI?si=9gTUuOrO8Qm6k7qv) - Composer:  Francis Scott Key, Arranger: John Stafford Smith
+### [America the Beautiful](https://youtu.be/RXlzBR23HG0?si=Smz1RudksjGK-a_b) - Arranger: C. Dragon
 
 ### [Strike up the Band](https://youtu.be/gnrXnhblHgw?si=W4w6Slw_zV05lron) - Composers:  George and Ira Gershwin; Arr: Warren Barker
 
