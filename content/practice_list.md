@@ -5,7 +5,6 @@ sidebar = false
 draft = false
 +++
 
-# ANNOUNCEMENTS:
 
 
 ### [Bare Necessities](https://youtu.be/JyuRYjdSOWI?si=CHamUthdzRtocYAl) - Composer: Terry Gilkyson; Arranger: Paul Murtha
