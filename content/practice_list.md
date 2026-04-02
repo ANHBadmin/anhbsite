@@ -1,15 +1,18 @@
 +++
 title = 'Practice List'
-date = 2026-03-18T01:00:00-05:00
+date = 2026-04-02T01:00:00-05:00
 sidebar = false
 draft = false
 +++
 
 # ANNOUNCEMENTS:
-## 1) UPDATE: Add America the Beautiful
-## 2) UPDATE: Remove Star Spangled Banner
 
----
+
+### [Bare Necessities](https://youtu.be/JyuRYjdSOWI?si=CHamUthdzRtocYAl) - Composer: Terry Gilkyson; Arranger: Paul Murtha
+
+### Blue Bossa - Arranger: Ken Simpson (No recording available)
+
+### Land of Make Believe - Composer: Chuck Mangioni; Arranger: Jay Dawson (No recording available)
 
 ### [America the Beautiful](https://youtu.be/RXlzBR23HG0?si=Smz1RudksjGK-a_b) - Arranger: C. Dragon
 
@@ -19,17 +22,18 @@ draft = false
 
 ### [The Stars and Stripes Forever](https://youtu.be/a-7XWhyvIpE?si=QtxJxwph8R3hljFX) - Composer: John Philip Sousa
 
-### [The Promise of Living](https://youtu.be/4zpAeRZbVd8?si=dm9-fw9dFO_Y6oPl) - Composer: Aaron Copland, Arranger: James Curnow
-### [The Promise of Living - Vocal Performance](https://youtu.be/tDAbNaF6EYQ?si=EhksclFwGh9JTNx7)
-
 ### [Americans We](https://youtu.be/H0TKaqTa6LM?si=fni4zWKAt73pb_Rx) - Composer: Henry Fillmore
-
-### [The Old Boatman](https://youtu.be/jMQteKf7v9U?si=wTSdet75RvAPRZ5Z) - Composer: Florence Price
 
 ### [Chimes of Liberty](https://youtu.be/nsGnPc1ACfc?si=dp4DYqZDBQGzxe6x)  - Composer: Edwin Franko Goldman
 
 ### Armed Services Medley - Arranger: Pomeroy (No recording available)
 
+---
+
+### [The Old Boatman](https://youtu.be/jMQteKf7v9U?si=wTSdet75RvAPRZ5Z) - Composer: Florence Price
+
+### [The Promise of Living](https://youtu.be/4zpAeRZbVd8?si=dm9-fw9dFO_Y6oPl) - Composer: Aaron Copland, Arranger: James Curnow
+### [The Promise of Living - Vocal Performance](https://youtu.be/tDAbNaF6EYQ?si=EhksclFwGh9JTNx7)
 
 ---
 
