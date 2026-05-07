@@ -1,11 +1,13 @@
 +++
 title = 'Practice List'
-date = 2026-04-11T02:00:00-05:00
+date = 2026-05-06T02:00:00-05:00
 sidebar = false
 draft = false
 +++
 
 
+
+### [America the Beautiful](https://youtu.be/RXlzBR23HG0?si=Smz1RudksjGK-a_b) - Arranger: C. Dragon
 
 ### [Strike up the Band](https://youtu.be/gnrXnhblHgw?si=W4w6Slw_zV05lron) - Composers:  George and Ira Gershwin; Arr: Warren Barker
 
@@ -23,7 +25,7 @@ draft = false
 
 ### [Bare Necessities](https://youtu.be/JyuRYjdSOWI?si=CHamUthdzRtocYAl) - Composer: Terry Gilkyson; Arranger: Paul Murtha
 
-### [America the Beautiful](https://youtu.be/RXlzBR23HG0?si=Smz1RudksjGK-a_b) - Arranger: C. Dragon
+
 
 ---
 

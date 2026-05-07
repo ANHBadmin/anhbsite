@@ -1,6 +1,6 @@
 +++
 title = 'Members'
-date = 2026-02-12T01:43:06-05:00
+date = 2026-05-06T01:43:06-05:00
 draft = false
 +++
 
@@ -18,12 +18,14 @@ draft = false
 #### - Wolfgang Tiedtke
 #### - Mary Siler
 
-  
+ 
 ## Bass Clarinet
 #### - Mark Lesser
 
 ## Alto Saxophone
 #### - Jonathan Nadybal
+#### - Anne Pisarchuk
+#### - Wise, Beth Ann
 
 ## Tenor Saxophone
 #### - Don Girard
