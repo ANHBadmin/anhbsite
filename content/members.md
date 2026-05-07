@@ -25,7 +25,7 @@ draft = false
 ## Alto Saxophone
 #### - Jonathan Nadybal
 #### - Anne Pisarchuk
-#### - Wise, Beth Ann
+#### - Beth Ann Wise
 
 ## Tenor Saxophone
 #### - Don Girard
