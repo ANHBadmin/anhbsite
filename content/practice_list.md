@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2026-05-19T02:00:00-05:00
+date = 2026-05-28T02:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -17,13 +17,13 @@ draft = false
 
 ### Land of Make Believe - Composer: Chuck Mangioni; Arranger: Jay Dawson (No recording available)
 
-### [At a Dixieland Jazz Funeral](https://youtu.be/hsO6q3jXduk?si=YS6fdLyczovdlYxJ) - Composer: Jared Spears
-
 ### Blue Bossa - Arranger: Ken Simpson (No recording available)
 
 ### [Chimes of Liberty](https://youtu.be/nsGnPc1ACfc?si=dp4DYqZDBQGzxe6x)  - Composer: Edwin Franko Goldman
 
 ### [Bare Necessities](https://youtu.be/JyuRYjdSOWI?si=CHamUthdzRtocYAl) - Composer: Terry Gilkyson; Arranger: Paul Murtha
+
+### [At a Dixieland Jazz Funeral](https://youtu.be/hsO6q3jXduk?si=YS6fdLyczovdlYxJ) - Composer: Jared Spears
 
 
 
