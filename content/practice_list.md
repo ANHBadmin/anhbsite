@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2026-06-19T02:00:00-05:00
+date = 2026-06-10T02:00:00-05:00
 sidebar = false
 draft = false
 +++
