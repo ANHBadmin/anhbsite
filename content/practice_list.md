@@ -9,6 +9,6 @@ draft = false
 
 ## The band is on break until Wednesday August 5, 2026.
 
-### Parts will be handed out ot August 5 band practice.
+### Parts will be handed out at the August 5 band practice.
 
 ---
