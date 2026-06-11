@@ -1,12 +1,17 @@
 +++
 title = 'Concert Schedule'
-date = 2026-05-17T02:43:06-05:00
+date = 2026-06-10T02:43:06-05:00
 draft = false
 +++
 
 
 
+### The band is on break until Wednesday August 5, 2026.  
+
+
 ## 2026
+
+
  
 **Wednesday: June 10, 2026**  
 3:00 PM setup  
