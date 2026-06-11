@@ -7,8 +7,9 @@ draft = false
 
 
 
-## The band is on break until Wednesday August 5, 2026.
-
-### Parts will be handed out at the August 5 band practice.
+## The band is currently on Summer break.
+### The next rehearsal will be on Wednesday August 5, 2026.
+#### PLEASE NOTE! There will be NO rehearsal on the 12th of August.
+##### Parts will be handed out at the August 5 band practice.
 
 ---

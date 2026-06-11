@@ -7,6 +7,9 @@ draft = false
 
 
 ### The band is on break until Wednesday August 5, 2026.  
+#### There WILL be a reahearsal on August 5.
+#### NO rehearsal on August 12.
+##### Weekly rehearsals will resume August 19.
 
 
 ## 2026
