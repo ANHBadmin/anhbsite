@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2026-06-10T02:00:00-05:00
+date = 2026-07-19T02:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -16,7 +16,7 @@ draft = false
 
 ## New Pracite List
 
-### [Gershwin](https://youtu.be/72TG9czNm3I?si=1Rzd73HdOAnGBWN4)
+### [Gershwin](https://youtu.be/LEiCo60roB8?si=sjYq3eI2j46y4lAE)
 
 ### [Overture for Winds](https://youtu.be/6MayQeHocbo?si=tdv8AOKvDzUqILCf)
 
