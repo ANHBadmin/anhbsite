@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2026-07-19T02:00:00-05:00
+date = 2026-07-22T02:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -8,15 +8,12 @@ draft = false
 
 
 ## The band is currently on Summer break.
-### The next rehearsal will be on Wednesday August 5, 2026.
-#### PLEASE NOTE! There will be NO rehearsal on the 12th of August.
-##### Parts will be handed out at the August 5, 2026. 
+### Rehearsals resume Wednesday August 26, 2026.
    
----
+--
+## New Practice List
 
-## New Pracite List
-
-### [Gershwin](https://youtu.be/LEiCo60roB8?si=sjYq3eI2j46y4lAE)
+### [Gershwin!](https://youtu.be/LEiCo60roB8?si=sjYq3eI2j46y4lAE)
 
 ### [Overture for Winds](https://youtu.be/6MayQeHocbo?si=tdv8AOKvDzUqILCf)
 
