@@ -27,4 +27,4 @@ draft = false
 
 ### [Bacharach And David (Popular Medley No. 1)](https://youtu.be/SOS3jdjDnpg?si=EXj5qzqFRzVhKGNh)
 
-### [Sinatra!](https://youtu.be/17jHHH4RFYw?si=dLhXUZ_D8JKu5iNA)
+### [Sinatra!](https://youtu.be/HWCs7wEUMb0?si=ken6t_X6S9CTTty2)
