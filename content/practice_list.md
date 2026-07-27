@@ -13,7 +13,7 @@ draft = false
 --
 ## New Practice List
 
-### [Gershwin!](https://youtu.be/LEiCo60roB8?si=sjYq3eI2j46y4lAE)
+### [Gershwin!](https://youtu.be/h8Y9jZDlCMQ?si=H1f7DlzAQlkCPYYH)
 
 ### [Overture for Winds](https://youtu.be/6MayQeHocbo?si=tdv8AOKvDzUqILCf)
 
