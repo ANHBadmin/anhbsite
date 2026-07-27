@@ -17,7 +17,7 @@ draft = false
 
 ### [Overture for Winds](https://youtu.be/6MayQeHocbo?si=tdv8AOKvDzUqILCf)
 
-### [A Tribute to Kurt Weil](https://youtu.be/pzN9rx5qXJM?si=h4yuFri16A7Ue4Mp)
+### [A Tribute to Kurt Weil](https://youtu.be/0M9Bl1Z6fyU?si=f7ACtdmKK7PETFfB)
 
 ### [Heinzelmannchens Wachtparade (Brownies’ Guard Parade)](https://youtu.be/IIC4puyJeyY?si=NGl-K2l1jfNGX0zO)
 
