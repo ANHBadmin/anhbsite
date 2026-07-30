@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2026-07-26T02:00:00-05:00
+date = 2026-07-29T02:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -13,13 +13,13 @@ draft = false
 --
 ## New Practice List (Performance Order)
 
+### - [Gershwin!](https://youtu.be/h8Y9jZDlCMQ?si=H1f7DlzAQlkCPYYH)
+
 ### - [Heinzelmannchens Wachtparade (Brownies’ Guard Parade)](https://youtu.be/IIC4puyJeyY?si=NGl-K2l1jfNGX0zO)
 
 ### - [Overture for Winds](https://youtu.be/6MayQeHocbo?si=tdv8AOKvDzUqILCf)
 
 ### - [A Tribute to Kurt Weil](https://youtu.be/0M9Bl1Z6fyU?si=f7ACtdmKK7PETFfB)
-
-### - [Gershwin!](https://youtu.be/h8Y9jZDlCMQ?si=H1f7DlzAQlkCPYYH)
 
 ### - [Deep River](https://youtu.be/5ePgo6tpNDw?si=4YUq6RENPdKRTMTB)
 
