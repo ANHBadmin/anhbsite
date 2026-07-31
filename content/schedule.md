@@ -1,15 +1,14 @@
 +++
 title = 'Concert Schedule'
-date = 2026-06-10T02:43:06-05:00
+date = 2026-07-30T02:43:06-05:00
 draft = false
 +++
 
 
 
-### The band is on break until Wednesday August 5, 2026.  
-#### There WILL be a reahearsal on August 5.
-#### NO rehearsal on August 12.
-##### Weekly rehearsals will resume August 19.
+### The band is on break until Wednesday August 26, 2026.  
+#### There Will NOT be reahearsals on August 5, 12 and 19.
+
 
 
 ## 2026
