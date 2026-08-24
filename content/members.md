@@ -1,6 +1,6 @@
 +++
 title = 'Members'
-date = 2026-05-06T01:43:06-05:00
+date = 2026-08-23T01:43:06-05:00
 draft = false
 +++
 
@@ -12,11 +12,13 @@ draft = false
 #### - Laura Herbin
 #### - Anne Haddox
 #### - Jennine Kinsey
+#### - Cathy Mendelson
   
 ## Clarinet
 #### - Sonny Mayfield
 #### - Wolfgang Tiedtke
 #### - Mary Siler
+#### - Bob Baker
 
  
 ## Bass Clarinet
