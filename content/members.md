@@ -12,7 +12,7 @@ draft = false
 #### - Laura Herbin
 #### - Anne Haddox
 #### - Jennine Kinsey
-#### - Cathy Mendelson
+
   
 ## Clarinet
 #### - Sonny Mayfield
