@@ -1,6 +1,6 @@
 +++
 title = 'Members'
-date = 2026-08-23T01:43:06-05:00
+date = 2026-08-26T01:43:06-05:00
 draft = false
 +++
 
@@ -12,6 +12,7 @@ draft = false
 #### - Laura Herbin
 #### - Anne Haddox
 #### - Jennine Kinsey
+#### - Kathy Farmer
 
   
 ## Clarinet

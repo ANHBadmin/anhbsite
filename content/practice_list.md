@@ -1,17 +1,14 @@
 +++
 title = 'Practice List'
-date = 2026-07-29T02:00:00-05:00
+date = 2026-08-26T02:00:00-05:00
 sidebar = false
 draft = false
 +++
 
 
 
-## The band is currently on Summer break.
-### Rehearsals resume Wednesday August 26, 2026.
-   
---
-## New Practice List (Performance Order)
+
+## Fall 2026 Practice List (Performance Order)
 
 ### - [Gershwin!](https://youtu.be/h8Y9jZDlCMQ?si=H1f7DlzAQlkCPYYH)
 

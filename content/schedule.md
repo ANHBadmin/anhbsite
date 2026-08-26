@@ -1,6 +1,6 @@
 +++
 title = 'Concert Schedule'
-date = 2026-07-30T02:43:06-05:00
+date = 2026-08-26T01:43:06-05:00
 draft = false
 +++
 
@@ -14,15 +14,31 @@ draft = false
 ## 2026
 
 
- 
+### October
+
+**Wednesday: October 14, 2026**  
+1:30 PM setup  
+2:00 - 3:00 PM Concert  
+Sunrise Summit in Sandy Springs   
+
+### November
+
+**Wednesday: November 18, 2026**  
+2;30 PM setup  
+3:00 - 4:00 PM Concert  
+Canturbury Court
+
+
+
+---
+
+## 2026 - Previously
+
 **Wednesday: June 10, 2026**  
 3:00 PM setup  
 3:30 - 4:30 PM Concert  
 Mt. Vernon Towers in Sandy Springs  
 
----
-
-## 2026 - Previously
 
 **Wednesday: May 13, 2026**  
 OUTDOOR EVENT!  
@@ -33,7 +49,7 @@ Sunrise Summit in Sandy Springs
 **Tuesday: March 24, 2026**  
 2:30 Set-up  
 3:00 - 4:00 PM Concert  
-Canterbury  
+Canterbury Court
 
 
 ## 2025
