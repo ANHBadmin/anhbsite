@@ -15,7 +15,9 @@ draft = false
 **Wednesday: October 14, 2026**  
 1:30 PM setup  
 2:00 - 3:00 PM Concert  
-Sunrise Summit in Sandy Springs   
+Sunrise Summit in Sandy Springs  
+OUTDOOR EVENT (weather permitting)  
+
 
 ### November
 
