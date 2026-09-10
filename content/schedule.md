@@ -1,6 +1,6 @@
 +++
 title = 'Concert Schedule'
-date = 2026-08-26T01:43:06-05:00
+date = 2026-09-09T01:43:06-05:00
 draft = false
 +++
 
@@ -12,7 +12,8 @@ draft = false
 
 ### October
 
-**Wednesday: October 14, 2026**  
+**Wednesday: October 28, 2026**  
+(rescheduled from 10/24)  
 1:30 PM setup  
 2:00 - 3:00 PM Concert  
 Sunrise Summit in Sandy Springs  
