@@ -10,7 +10,7 @@ draft = false
 
 ## Fall 2026 Practice List (Performance Order)
 
-### NOTE: ChilleRS and Thrillers replaces Sinatra! (09/11/2026)
+### NOTE: Chillers and Thrillers replaces Sinatra! (09/11/2026)
 
 ### - [Gershwin!](https://youtu.be/h8Y9jZDlCMQ?si=H1f7DlzAQlkCPYYH)
 
