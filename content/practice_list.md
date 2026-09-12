@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2026-08-26T01:00:00-05:00
+date = 2026-09-11T01:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -9,6 +9,8 @@ draft = false
 
 
 ## Fall 2026 Practice List (Performance Order)
+
+### NOTE: ChilleRS and Thrillers replaces Sinatra! (09/11/2026)
 
 ### - [Gershwin!](https://youtu.be/h8Y9jZDlCMQ?si=H1f7DlzAQlkCPYYH)
 
@@ -24,4 +26,6 @@ draft = false
 
 ### - [March with Mancini](https://youtu.be/TDxj4GrHa5A?si=Mj3vouwI_rww5wXg)
 
-### - [Sinatra!](https://youtu.be/HWCs7wEUMb0?si=ken6t_X6S9CTTty2)
+### - [Chillers and Thrillers](https://www.youtube.com/watch?v=FzQOw6jDi6I&list=RDFzQOw6jDi6I&start_radio=1)
+
+###33 - [CANCELLED - 09/11/2026]  Sinatra!
