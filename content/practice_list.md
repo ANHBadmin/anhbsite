@@ -8,7 +8,7 @@ draft = false
 
 
 
-## Fall 2026 Practice List (Performance Order)
+## Fall 2026 Practice List
 
 ### Agenda for September 30 rehearsal:
 - Chillers and Thrillers
@@ -35,6 +35,8 @@ draft = false
 ### - [Chillers and Thrillers](https://www.youtube.com/watch?v=FzQOw6jDi6I&list=RDFzQOw6jDi6I&start_radio=1)
 
 ### - [Aladdin](https://youtu.be/C9bP9HM0nb4?si=l4mjbWH4wqbe31xz)
+
+### - [Autumn Leaves](https://youtu.be/T3Ix3g47xn0?si=wYS0GXYJfJfSY2wg)
 
 
 ---
