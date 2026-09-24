@@ -18,29 +18,28 @@ draft = false
 
 ---
 
-### - [Gershwin!](https://youtu.be/h8Y9jZDlCMQ?si=H1f7DlzAQlkCPYYH)
+## Pereformance Order:
 
-### - [Heinzelmännchens Wachtparade (Brownies’ Guard Parade)](https://youtu.be/mcyWYVavpRQ?si=OrsgeikQMRdCxsux)
+### - [Heinzelmännchens Wachtparade (Brownies’ Guard Parade)](https://youtu.be/NEIwEVTsCZQ?si=bKC4IuYnYvxheLWc)
 
 ### - [Overture for Winds](https://youtu.be/6MayQeHocbo?si=tdv8AOKvDzUqILCf)
 
-### - [A Tribute to Kurt Weil](https://youtu.be/0M9Bl1Z6fyU?si=f7ACtdmKK7PETFfB)
-
-### - [Deep River](https://youtu.be/5ePgo6tpNDw?si=4YUq6RENPdKRTMTB)
-
 ### - [Bacharach And David (Popular Medley No. 1)](https://youtu.be/SOS3jdjDnpg?si=EXj5qzqFRzVhKGNh)
 
-### - [March with Mancini](https://youtu.be/TDxj4GrHa5A?si=Mj3vouwI_rww5wXg)
-
-### - [Chillers and Thrillers](https://www.youtube.com/watch?v=FzQOw6jDi6I&list=RDFzQOw6jDi6I&start_radio=1)
-
-### - [Aladdin](https://youtu.be/C9bP9HM0nb4?si=l4mjbWH4wqbe31xz)
+### - [A Tribute to Kurt Weil](https://youtu.be/0M9Bl1Z6fyU?si=f7ACtdmKK7PETFfB)
 
 ### - [Autumn Leaves](https://youtu.be/T3Ix3g47xn0?si=wYS0GXYJfJfSY2wg)
 
+### - [Aladdin](https://youtu.be/C9bP9HM0nb4?si=l4mjbWH4wqbe31xz)
+
+### - [Chillers and Thrillers](https://www.youtube.com/watch?v=FzQOw6jDi6I&list=RDFzQOw6jDi6I&start_radio=1)
 
 ---
 
+## Change History:
 ### Autumn Leaves - added 23 September, 2026
+### Gershwin! - removed 24 September, 2026
+### March with Mancini - removed 24 September, 2026
+### Deep River - removed 24 September, 2026
 ### Aladdin - added 16 Septemnber, 2026
 ### Chillers and Thrillers replaces Sinatra! (09/11/2026)
