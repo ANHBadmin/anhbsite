@@ -45,5 +45,5 @@ draft = false
 ### Gershwin! - removed 24 September, 2026
 ### March with Mancini - removed 24 September, 2026
 ### Deep River - removed 24 September, 2026
-### Aladdin - added 16 Septemnber, 2026
+### Aladdin - added 16 September, 2026
 ### Chillers and Thrillers replaces Sinatra! (09/11/2026)
