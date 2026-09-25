@@ -40,6 +40,7 @@ draft = false
 ---
 
 ## Change History:
+### The National Game (Encore) - added 25 September, 2026
 ### Autumn Leaves - added 23 September, 2026
 ### Gershwin! - removed 24 September, 2026
 ### March with Mancini - removed 24 September, 2026
