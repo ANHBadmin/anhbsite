@@ -1,6 +1,6 @@
 +++
 title = 'Members'
-date = 2026-08-26T01:43:06-05:00
+date = 2026-09-25T01:43:06-05:00
 draft = false
 +++
 
@@ -19,7 +19,6 @@ draft = false
 #### - Sonny Mayfield
 #### - Wolfgang Tiedtke
 #### - Mary Siler
-#### - Bob Baker
 
  
 ## Bass Clarinet
