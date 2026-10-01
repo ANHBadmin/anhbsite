@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2026-09-25T01:00:00-05:00
+date = 2026-10-01T01:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -10,13 +10,6 @@ draft = false
 
 ## Fall 2026 Practice List
 
-### Agenda for September 30 rehearsal:
-- Chillers and Thrillers
-- Heinzelmännchens Wachtparade
-- Bacharach And David
-- Autumn Leaves
-
----
 
 ## Pereformance Order:
 
