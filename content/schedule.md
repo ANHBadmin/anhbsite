@@ -20,8 +20,8 @@ draft = false
 (rescheduled from 10/14)  
 1:30 PM setup  
 2:00 - 3:00 PM Concert  
-Sunrise Summit in Sandy Springs  
-8592 Roswelll Rd., Sandy Springs
+Sunrise Summit  
+8592 Roswelll Rd., Sandy Springs  
 OUTDOOR EVENT (weather permitting)  
 
 
@@ -30,14 +30,14 @@ OUTDOOR EVENT (weather permitting)
 **Wednesday: November 11, 2026**  
 2:30 PM setup  
 3:00 - 4:00 PM Concert  
-Mt. Vernon Towers in Sandy Springs  
-300 Johnson Ferry Rd., Sandy Springs
+Mt. Vernon Towers  
+300 Johnson Ferry Rd., Sandy Springs  
 
 **Wednesday: November 18, 2026**  
 2;30 PM setup  
 3:00 - 4:00 PM Concert  
-Canturbury Court
-3750 Peachtree Rdl, NE, Atlanta
+Canturbury Court  
+3750 Peachtree Rdl, NE, Atlanta  
 
 
 
