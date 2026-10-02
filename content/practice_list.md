@@ -33,22 +33,24 @@ draft = false
 ---
 
 ## Selections for the November 11 concert will be from this list:
-- Star Spangled Banner
-- America, the Beautiful 
-- Stars and Stripes Forever 
-- Liberty Bell
+- [Star Spangled Banner](https://youtu.be/LGvW6jHUHiY?si=380ll3MiKQE4d_Px)
+- [America, the Beautiful](https://youtu.be/RXlzBR23HG0?si=4W_8JlHXw78WOmAb)
+- [Stars and Stripes Forever](https://youtu.be/DRQWP-TL4gk?si=HLbrc0it7JWlO-Nx) 
+- [Liberty Bell](https://youtu.be/JpKLqQRRJBM?si=juttfqq_X1V981hA)
 - The Voice of the Guns
 - Americans We
-- Black Horse Troop
-- The Old Boatman (need some relief!)
-- Chimes of Liberty
+- [Black Horse Troop](https://youtu.be/Bv7XqtH7Vas?si=MMD2KVWjfv34t49V)
+- [The Old Boatman](https://youtu.be/jMQteKf7v9U?si=rQ4Hz__l21Fdd0hP)
+- [Chimes of Liberty](https://youtu.be/nsGnPc1ACfc?si=hfRILFGf4Jk2qcJg)
 - An American Spectacular
 - National Emblem 
-- Second American Folk Rhapsody (relief #2!)
+- Second American Folk Rhapsody
 - Nobles of the Mystic Shrine 
-- Victory at Sea
+## ATTENTION! The following is NOT the R. Russell Bennett arrangement
+- Victory at Sea - arr. John Moss
 - Washington Grays
-- Salute to the Armed Forces (all 6 branches)
+## ATTENTION! The following is NOT the Armed Services Medley
+- Salute to the Armed Forces - arr. Jari Villanueva
   
 ---
 
