@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2026-10-01T01:00:00-05:00
+date = 2026-10-02T01:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -32,11 +32,34 @@ draft = false
 
 ---
 
+## Selections for the November 11 concert will be from this list:
+- Star Spangled Banner
+- America, the Beautiful 
+- Stars and Stripes Forever 
+- Liberty Bell
+- The Voice of the Guns
+- Americans We
+- Black Horse Troop
+- The Old Boatman (need some relief!)
+- Chimes of Liberty
+- An American Spectacular
+- National Emblem 
+- Second American Folk Rhapsody (relief #2!)
+- Nobles of the Mystic Shrine 
+- Victory at Sea
+- Washington Grays
+- Salute to the Armed Forces (all 6 branches)
+- 
+---
+
+
+
 ## Change History:
+### November 11 list - posted above, 2 October, 2026
 ### The National Game (Encore) - added 25 September, 2026
 ### Autumn Leaves - added 23 September, 2026
 ### Gershwin! - removed 24 September, 2026
 ### March with Mancini - removed 24 September, 2026
-### Deep River - removed 24 September, 2026
+### Deep River - removed 24 September, 2026   
 ### Aladdin - added 16 September, 2026
 ### Chillers and Thrillers replaces Sinatra! (09/11/2026)
