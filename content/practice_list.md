@@ -49,7 +49,7 @@ draft = false
 - Victory at Sea
 - Washington Grays
 - Salute to the Armed Forces (all 6 branches)
-- 
+  
 ---
 
 
