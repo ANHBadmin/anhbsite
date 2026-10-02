@@ -37,20 +37,20 @@ draft = false
 - [America, the Beautiful](https://youtu.be/RXlzBR23HG0?si=4W_8JlHXw78WOmAb)
 - [Stars and Stripes Forever](https://youtu.be/DRQWP-TL4gk?si=HLbrc0it7JWlO-Nx) 
 - [Liberty Bell](https://youtu.be/JpKLqQRRJBM?si=juttfqq_X1V981hA)
-- The Voice of the Guns
-- Americans We
+- [The Voice of the Guns](https://youtu.be/yIQGqyeYO_k?si=aoBwp8htyK-MeqPN)
+- [Americans We](https://youtu.be/H0TKaqTa6LM?si=vlXPt2feIzpqNoS6)
 - [Black Horse Troop](https://youtu.be/Bv7XqtH7Vas?si=MMD2KVWjfv34t49V)
 - [The Old Boatman](https://youtu.be/jMQteKf7v9U?si=rQ4Hz__l21Fdd0hP)
 - [Chimes of Liberty](https://youtu.be/nsGnPc1ACfc?si=hfRILFGf4Jk2qcJg)
-- An American Spectacular
-- National Emblem 
-- Second American Folk Rhapsody
-- Nobles of the Mystic Shrine 
-## ATTENTION! The following is NOT the R. Russell Bennett arrangement
-- Victory at Sea - arr. John Moss
-- Washington Grays
-## ATTENTION! The following is NOT the Armed Services Medley
-- Salute to the Armed Forces - arr. Jari Villanueva
+- [An American Spectacular](https://youtu.be/d_rEiaddyUU?si=z8O9DwPbtjpzotzJ)
+- [National Emblem](https://youtu.be/fSq7koSJlBQ?si=ILsUQU4aO2B_9x3l) 
+- [Second American Folk Rhapsody](https://youtu.be/ptUrXpd9tY0?si=xmn6olIjyai_-O7B)
+- [Nobles of the Mystic Shrine](https://youtu.be/zGQ4CMqXw60?si=ZaHHWm-fEWr1rDvp) 
+#### ATTENTION! The following is NOT the R. Russell Bennett arrangement
+- [Victory at Sea](https://youtu.be/Giw1PacZdZQ?si=A6H9nSI53OUFG2-a) - arr. John Moss
+- [Washington Grays](https://youtu.be/j3YPTd3iUhQ?si=z2BvDDeYGESq0ot_)
+#### ATTENTION! The following is NOT the Armed Services Medley
+- [Salute to the Armed Forces](https://youtu.be/_DWQIYOaSsg?si=qWnKytYllow-WsGo) - arr. Jari Villanueva
   
 ---
 
