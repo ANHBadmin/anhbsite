@@ -44,7 +44,7 @@ draft = false
 - [An American Spectacular](https://youtu.be/d_rEiaddyUU?si=z8O9DwPbtjpzotzJ)
 - [Nobles of the Mystic Shrine](https://youtu.be/zGQ4CMqXw60?si=ZaHHWm-fEWr1rDvp) 
 #### ATTENTION! The following is NOT the R. Russell Bennett arrangement
-- [Victory at Sea](https://youtu.be/Giw1PacZdZQ?si=A6H9nSI53OUFG2-a) (Noss)
+- [Victory at Sea](https://youtu.be/Giw1PacZdZQ?si=A6H9nSI53OUFG2-a) (Moss)
 - [Washington Grays](https://youtu.be/j3YPTd3iUhQ?si=z2BvDDeYGESq0ot_)
 #### ATTENTION! The following is NOT the Armed Services Medley
 - [Salute to the Armed Forces](https://youtu.be/_DWQIYOaSsg?si=qWnKytYllow-WsGo) - arr. Jari Villanueva
