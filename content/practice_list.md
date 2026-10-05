@@ -49,17 +49,6 @@ draft = false
 #### ATTENTION! The following is NOT the Armed Services Medley
 - [Salute to the Armed Forces](https://youtu.be/_DWQIYOaSsg?si=qWnKytYllow-WsGo) - arr. Jari Villanueva
   
----
 
 
 
-## Change Log:
-### Liberty Bell, National Emblem, Second American Rhapsody - removed from Nov 11 list on 10/5
-### November 11 list - posted above, 2 October, 2026
-### The National Game (Encore) - added 25 September, 2026
-### Autumn Leaves - added 23 September, 2026
-### Gershwin! - removed 24 September, 2026
-### March with Mancini - removed 24 September, 2026
-### Deep River - removed 24 September, 2026   
-### Aladdin - added 16 September, 2026
-### Chillers and Thrillers replaces Sinatra! (09/11/2026)
