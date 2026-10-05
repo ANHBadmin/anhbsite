@@ -17,7 +17,7 @@ draft = false
 
 ### - [Overture for Winds](https://youtu.be/6MayQeHocbo?si=tdv8AOKvDzUqILCf)
 
-### - [Bacharach And David (Popular Medley No. 1)](https://youtu.be/SOS3jdjDnpg?si=EXj5qzqFRzVhKGNh)
+### - [Bacharach And David (Popular Medley No. 1)](https://youtu.be/SOS3jdjDnpg?si=xmaylqBGLrMp6Qg1)
 
 ### - [A Tribute to Kurt Weil](https://youtu.be/0M9Bl1Z6fyU?si=uoNb7p7ipgbFVlQ4)
 
