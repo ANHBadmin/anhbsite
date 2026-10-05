@@ -11,7 +11,7 @@ draft = false
 ## Fall 2026 Practice List
 
 
-## October 28 - Pereformance Order:
+## October 28 - Performance Order:
 
 ### - [Heinzelmännchens Wachtparade (Brownies’ Guard Parade)](https://youtu.be/NEIwEVTsCZQ?si=bKC4IuYnYvxheLWc)
 
