@@ -13,21 +13,21 @@ draft = false
 
 ## October 28 - Performance Order:
 
-### - [Heinzelmännchens Wachtparade (Brownies’ Guard Parade)](https://youtu.be/NEIwEVTsCZQ?si=bKC4IuYnYvxheLWc)
+### - [Heinzelmännchens Wachtparade (Brownies’ Guard Parade)](https://youtu.be/tfbYoP2I-8k?si=m2ezBJR8G6_lH-CK)
 
 ### - [Overture for Winds](https://youtu.be/6MayQeHocbo?si=tdv8AOKvDzUqILCf)
 
 ### - [Bacharach And David (Popular Medley No. 1)](https://youtu.be/SOS3jdjDnpg?si=EXj5qzqFRzVhKGNh)
 
-### - [A Tribute to Kurt Weil](https://youtu.be/0M9Bl1Z6fyU?si=f7ACtdmKK7PETFfB)
+### - [A Tribute to Kurt Weil](https://youtu.be/0M9Bl1Z6fyU?si=uoNb7p7ipgbFVlQ4)
 
-### - [Autumn Leaves](https://youtu.be/T3Ix3g47xn0?si=wYS0GXYJfJfSY2wg)
+### - [Autumn Leaves](https://youtu.be/T3Ix3g47xn0?si=wNwP9RNnOAiktOJ2)
 
-### - [Aladdin](https://youtu.be/C9bP9HM0nb4?si=l4mjbWH4wqbe31xz)
+### - [Aladdin](https://youtu.be/C9bP9HM0nb4?si=sO5speXZDGFcXsBn)
 
-### - [The National Game](https://youtu.be/zItkmzeAVDM?si=WFgn8K2vlxCjw9qK)
+### - [The National Game](https://youtu.be/GMoFA22OG1Q?si=WhmVeyHa3ih5ApvG)
 
-### - [Chillers and Thrillers](https://www.youtube.com/watch?v=FzQOw6jDi6I&list=RDFzQOw6jDi6I&start_radio=1)
+### - [Chillers and Thrillers](https://youtu.be/Ss5J_PSheBc?si=Xo4w4RxXSL5eIByQ)
 
 
 ---
