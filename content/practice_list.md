@@ -27,7 +27,7 @@ draft = false
 
 ### - [The National Game](https://youtu.be/GMoFA22OG1Q?si=WhmVeyHa3ih5ApvG)
 
-### - [Chillers and Thrillers](https://youtu.be/Ss5J_PSheBc?si=Xo4w4RxXSL5eIByQ)
+### - [Chillers and Thrillers](https://youtu.be/eAE9EomnSPE?si=4A2VKHmeINHagpx5)
 
 
 ---
