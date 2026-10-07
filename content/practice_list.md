@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2026-10-05T01:00:00-05:00
+date = 2026-10-07T01:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -27,7 +27,7 @@ draft = false
 
 ### - [The National Game](https://youtu.be/GMoFA22OG1Q?si=WhmVeyHa3ih5ApvG)
 
-### - [Chillers and Thrillers](https://youtu.be/eAE9EomnSPE?si=4A2VKHmeINHagpx5)
+### - [Wicked](https://youtu.be/RUhpLZBrbWg?si=CkPTTWp2mBnS5JVE)
 
 ---
 
