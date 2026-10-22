@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2026-10-07T01:00:00-05:00
+date = 2026-10-21T01:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -11,9 +11,10 @@ draft = false
 ## Fall 2026 Practice List
 
 
-## October 28 - Performance Order:
+## October 28 - Updated Performance Order (as of 10/21):
 
-### - [Heinzelmännchens Wachtparade (Brownies’ Guard Parade)](https://youtu.be/tfbYoP2I-8k?si=m2ezBJR8G6_lH-CK)
+
+### - [The National Game](https://youtu.be/GMoFA22OG1Q?si=WhmVeyHa3ih5ApvG)
 
 ### - [Overture for Winds](https://youtu.be/6MayQeHocbo?si=tdv8AOKvDzUqILCf)
 
@@ -25,7 +26,7 @@ draft = false
 
 ### - [Aladdin](https://youtu.be/C9bP9HM0nb4?si=sO5speXZDGFcXsBn)
 
-### - [The National Game](https://youtu.be/GMoFA22OG1Q?si=WhmVeyHa3ih5ApvG)
+### - [Heinzelmännchens Wachtparade (Brownies’ Guard Parade)](https://youtu.be/tfbYoP2I-8k?si=m2ezBJR8G6_lH-CK)
 
 ### - [Wicked](https://youtu.be/RUhpLZBrbWg?si=CkPTTWp2mBnS5JVE)
 

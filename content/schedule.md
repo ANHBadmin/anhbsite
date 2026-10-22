@@ -1,6 +1,6 @@
 +++
 title = 'Concert Schedule'
-date = 2026-10-01T01:43:06-05:00
+date = 2026-10-21T01:43:06-05:00
 draft = false
 +++
 
@@ -17,7 +17,7 @@ draft = false
 ### October
 
 **Wednesday: October 28, 2026**  
-(rescheduled from 10/14)  
+
 1:30 PM setup  
 2:00 - 3:00 PM Concert  
 Sunrise Summit  
