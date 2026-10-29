@@ -1,6 +1,6 @@
 +++
 title = 'Concert Schedule'
-date = 2026-10-21T01:43:06-05:00
+date = 2026-10-29T01:43:06-05:00
 draft = false
 +++
 
@@ -10,20 +10,11 @@ draft = false
 
 ## Summary of Scheduled Concerts for 2026
 
-- 28 OCT 2026 - WED - Sunrise Summit
+
 - 11 NOV 2026 - WED - Mount Vernon Towers
 - 18 NOV 2026 - WED - Canterbury Court
   
-### October
-
-**Wednesday: October 28, 2026**  
-
-1:30 PM setup  
-2:00 - 3:00 PM Concert  
-Sunrise Summit  
-8592 Roswelll Rd., Sandy Springs  
-OUTDOOR EVENT (weather permitting)  
-
+---
 
 ### November
 
@@ -33,6 +24,8 @@ OUTDOOR EVENT (weather permitting)
 Mt. Vernon Towers  
 300 Johnson Ferry Rd., Sandy Springs  
 
+---
+
 **Wednesday: November 18, 2026**  
 2;30 PM setup  
 3:00 - 4:00 PM Concert  
@@ -40,10 +33,19 @@ Canturbury Court
 3750 Peachtree Rdl, NE, Atlanta  
 
 
-
 ---
 
 ## 2026 - Previously
+
+### October
+
+**Wednesday: October 28, 2026**  
+
+1:30 PM setup  
+2:00 - 3:00 PM Concert  
+Sunrise Summit  
+8592 Roswelll Rd., Sandy Springs  
+OUTDOOR EVENT (weather permitting)  
 
 **Wednesday: June 10, 2026**  
 3:00 PM setup  

@@ -1,6 +1,6 @@
 +++
 title = 'Practice List'
-date = 2026-10-21T01:00:00-05:00
+date = 2026-10-29T01:00:00-05:00
 sidebar = false
 draft = false
 +++
@@ -8,31 +8,12 @@ draft = false
 
 
 
-## Fall 2026 Practice List
-
-
-## October 28 - Updated Performance Order (as of 10/21):
-
-
-### - [The National Game](https://youtu.be/GMoFA22OG1Q?si=WhmVeyHa3ih5ApvG)
-
-### - [Overture for Winds](https://youtu.be/6MayQeHocbo?si=tdv8AOKvDzUqILCf)
-
-### - [Bacharach And David (Popular Medley No. 1)](https://youtu.be/SOS3jdjDnpg?si=xmaylqBGLrMp6Qg1)
-
-### - [A Tribute to Kurt Weil](https://youtu.be/0M9Bl1Z6fyU?si=uoNb7p7ipgbFVlQ4)
-
-### - [Autumn Leaves](https://youtu.be/T3Ix3g47xn0?si=wNwP9RNnOAiktOJ2)
-
-### - [Aladdin](https://youtu.be/C9bP9HM0nb4?si=sO5speXZDGFcXsBn)
-
-### - [Heinzelmännchens Wachtparade (Brownies’ Guard Parade)](https://youtu.be/tfbYoP2I-8k?si=m2ezBJR8G6_lH-CK)
-
-### - [Wicked](https://youtu.be/RUhpLZBrbWg?si=CkPTTWp2mBnS5JVE)
+## Fall 2026 Practice Lists (2)
 
 ---
 
 ## November 11 - Performance Order:
+
 - [The Star Spangled Banner](https://youtu.be/LGvW6jHUHiY?si=9-FGlrEEIbuyOydw) (DOD)
 - [America, the Beautiful](https://youtu.be/RXlzBR23HG0?si=DFbxpzaNJ0dPGVnP)
 - [Stars and Stripes Forever](https://youtu.be/a-7XWhyvIpE?si=Sdd1P6ZYs1NC80-1) 
