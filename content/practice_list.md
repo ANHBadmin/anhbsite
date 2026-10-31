@@ -26,7 +26,7 @@ draft = false
 - [Nobles of the Mystic Shrine](https://youtu.be/zGQ4CMqXw60?si=Q5z406cas4OZ8ILX)  
 (ATTENTION! The following is NOT the R. Russell Bennett arrangement.)  
 - [Victory at Sea](https://youtu.be/3xyCYO_EdMo?si=I1BLzxE_GZyqqLL7) (Moss)
-- [Washington Grays](https://youtu.be/TObtwwmgbpY?si=egOpt_sgIIs0DAOR)
+- [Washington Grays](https://youtu.be/TObtwwmgbpY?si=egOpt_sgIIs0DAOR)  
 (ATTENTION! The following is NOT the Armed Services Medley.)  
 - [Salute to the Armed Forces](https://youtu.be/mQFoyP3ryNQ?si=xuWc0CIzOeipnPcv) - arr. Jari Villanueva
 
