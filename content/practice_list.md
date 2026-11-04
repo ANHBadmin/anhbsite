@@ -21,11 +21,11 @@ draft = false
 - [An American Spectacular](https://youtu.be/XnAdzBTMt_Q?si=zuo9QFNIqYcEaYL8)
 - [Chimes of Liberty](https://youtu.be/ynEMy4KDc7E?si=13-llDQ3_vMjZ3Nc)
 - [Black Horse Troop](https://youtu.be/A2PUs4LdrHo?si=tCL-T_OIcja03qro)
-(ATTENTION! The following is NOT the R. Russell Bennett arrangement.)  
+- (ATTENTION! The following is NOT the R. Russell Bennett arrangement.)  
 - [Victory at Sea](https://youtu.be/3xyCYO_EdMo?si=I1BLzxE_GZyqqLL7) (Moss) 
-(ATTENTION! The following *IS* the Armed Services Medley.)  
+- (ATTENTION! The following *IS* the Armed Services Medley.)  
 - [Armed Services Medley](https://youtu.be/-u61ZWgca98) - arr: C.T. Pomeroy & Robert Cray
-(The above recording varies from our arrangement.  No matching recording is available.)
+- (The above recording varies from our arrangement.  No matching recording is available.)
 
 ---
 
