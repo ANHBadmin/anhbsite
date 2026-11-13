@@ -1,6 +1,6 @@
 +++
 title = 'Concert Schedule'
-date = 2026-10-29T01:43:06-05:00
+date = 2026-11-13T01:43:06-05:00
 draft = false
 +++
 
@@ -8,13 +8,18 @@ draft = false
 
 ## 2026
 
-## Summary of Scheduled Concerts for 2026
 
+### November
 
-- 11 NOV 2026 - WED - Mount Vernon Towers
-- 18 NOV 2026 - WED - Canterbury Court
-  
+**Wednesday: November 18, 2026**  
+2;30 PM setup  
+3:00 - 4:00 PM Concert  
+Canturbury Court  
+3750 Peachtree Rdl, NE, Atlanta  
+
 ---
+
+## 2026 - Previously
 
 ### November
 
@@ -25,17 +30,6 @@ Mt. Vernon Towers
 300 Johnson Ferry Rd., Sandy Springs  
 
 ---
-
-**Wednesday: November 18, 2026**  
-2;30 PM setup  
-3:00 - 4:00 PM Concert  
-Canturbury Court  
-3750 Peachtree Rdl, NE, Atlanta  
-
-
----
-
-## 2026 - Previously
 
 ### October
 
