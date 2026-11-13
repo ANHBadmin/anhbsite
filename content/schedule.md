@@ -1,6 +1,6 @@
 +++
 title = 'Concert Schedule'
-date = 2026-11-13T01:01:06-05:00
+date = 2026-11-13T02:01:06-05:00
 draft = false
 +++
 
@@ -19,7 +19,7 @@ Canturbury Court
 
 ---
 
-## 2026 - Previously
+## 2026 - Previous Concerts
 
 ### November
 
