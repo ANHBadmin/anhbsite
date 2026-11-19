@@ -1,13 +1,17 @@
 +++
 title = 'Concert Schedule'
-date = 2026-11-13T02:01:06-05:00
+date = 2026-11-18T02:01:06-05:00
 draft = false
 +++
 
 
 
-## 2026
+## 2027   -  TBA
 
+
+
+
+## 2026 - Previous Concerts
 
 ### November
 
@@ -18,10 +22,6 @@ Canturbury Court
 3750 Peachtree Rdl, NE, Atlanta  
 
 ---
-
-## 2026 - Previous Concerts
-
-### November
 
 **Wednesday: November 11, 2026**  
 2:30 PM setup  
